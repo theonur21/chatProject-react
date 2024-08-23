@@ -8,5 +8,4 @@ REACT - firebase
 
 <h2> Screen Gif </h2>
 
-![](ekran.gif)# chatProject-react
-# chatProject-react
+![](ekran.gif)
