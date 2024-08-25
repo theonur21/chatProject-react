@@ -1,6 +1,6 @@
 <h1> CHAT APP </h1>
 
-" creating a chat application with different rooms "
+" a chat application with different rooms "
 
 <h2> Used technologies </h2>
 
